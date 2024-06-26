@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud3d-demo</title>
+
+    <script src="lib/three.js"></script> 
+    <script src="lib/Detector.js"></script>
+    <script src="lib/Lensflare.js"></script> 
+    <script src="lib/TrackballControls.js"></script>
+    <script src="lib/stats.min.js"></script>
+    <script src="lib/gui.js"></script>
+    <script src="lib/lut.js"></script>
+</head>
+
+<body>
+
+    <div id='left'>
+        <div id='control'>
+            <button id='last'>最新</button>
+            <button id='prev'>上一张</button>
+            <button id='next'>下一张</button>
+            <button id='ani'>动画/停止</button>
+            <button id='rotate'>旋转/停止</button>
+            <button id='reset'>复位</button>
+            <br/><br/>
+            调色板：
+            <select id='pal'>
+                <option value ="I-01.pal">调色板1</option>
+                <option value ="I-02.pal">调色板2</option>
+                <option value ="I-03.pal">调色板3</option>
+                <option value ="I-04.pal">调色板4</option>
+                <option value ="I-05.pal">调色板5</option>
+                <option value ="I-06.pal">调色板6</option>
+                <option value ="I-07.pal">调色板7</option>
+                <option value ="I-08.pal">调色板8</option>
+                <option value ="I-09.pal">调色板9</option>
+              </select>
+            
+        </div>
+        <div class='list'>
+            <div id='loading' class="loading hide"></div>
+            <ul id='filelist'></ul>
+        </div>
+    </div>
+    <div id="earth">
+        <div id='title'></div>
+        <a id='logo' href='http://blog.csdn.net/hzgjf' target='_blank'>陕西省气象局 郭江峰 hz_gjf@163.com 2015</a>
+    </div>
+<script type="text/javascript" src="main.js"></script></body>
+
+</html>

@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>天气图快照</title>
+    </head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            height: 100%;
+            width: 100%;
+            font: 13px sans-serif;
+        }
+
+        body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background-color: gray;
+            margin: 0;
+        }
+
+        #side {
+            position: absolute;
+            width: 400px;
+            top: 0;
+            bottom: 0px;
+            text-align: center;
+        }
+
+        #content {
+            position: absolute;
+            left: 400px;
+            height: 100%;
+            right: 0;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            /* border-left: 1px solid black; */
+        }
+
+        #img-list {
+            position: absolute;
+            padding: 5px;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 28px;
+            overflow-y: scroll;
+            overflow-x: hidden;
+            text-align: center;
+        }
+
+        #img-list li {
+            list-style: none;
+            color: white;
+
+            cursor: pointer;
+        }
+
+        #img-list li canvas {
+            border: 2px solid white;
+            /*width: auto;
+        height: auto;
+        max-width: 365px;
+        max-height: 300px;*/
+            width: 360px;
+            height: 226px;
+            margin: 0 auto;
+            box-shadow: 0 0 5px 0px black;
+            display: block;
+        }
+
+        #img-list li canvas:hover {
+            box-shadow: 0 0 5px 0px white;
+        }
+
+        #img-list li canvas:active {
+            box-shadow: none;
+        }
+
+        #img-list li:hover .close-btn {
+            visibility: visible;
+        }
+
+        .img-cont {
+            position: relative;
+            width: 97%;
+            /* border: 4px double white;
+        outline: 3px solid white; */
+            margin: 10px auto;
+            min-height: 300px;
+        }
+
+        .img-cont img {
+            width: auto;
+            height: auto;
+            max-width: 100%;
+            max-height: 100%;
+            box-shadow: 0 0 5px black;
+        }
+
+        #note {
+            position: relative;
+            width: calc(100% - 10px);
+            background-color: lightgray;
+            margin: 0 auto;
+            flex: auto;
+            flex-basis: 200px;
+            /* border-top: 1px solid black; */
+            padding: 5px;
+        }
+
+        #note textarea {
+            resize: none;
+            font: 15px sans-serif;
+            width: 100%;
+            height: 100%;
+            overflow-y: scroll;
+            border: 0;
+        }
+
+        .close-btn {
+            float: right;
+            position: relative;
+            visibility: hidden;
+            top: 25px;
+            right: 10px;
+            color: white;
+            /* border: 1px solid white; */
+            border-radius: 50%;
+            background: black;
+            height: 19px;
+            width: 19px;
+        }
+
+        .close-btn::before {
+            content: "\2716";
+        }
+
+        .close-btn:hover {
+            background-color: red;
+        }
+
+        .close-btn:active {
+            transform: scale(1.1);
+        }
+
+        #toolbar {
+            position: absolute;
+            background: white;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            padding: 5px;
+        }
+    </style>
+
+    <body>
+        <div id="side">
+            <ul id="img-list"></ul>
+            <div id="toolbar">
+                <a href="#">导出pdf</a> | <a href="#">导出word</a> |
+                <a href="#">导出ppt</a> | <a href="#">导出html</a> (暂未完成)
+            </div>
+        </div>
+        <div id="content">
+            <div class="img-cont">
+                <img id="image" />
+            </div>
+            <div id="note">
+                <textarea>
+ 预报理由:
+
+            ================================================
+            暂存问题: 图片无法复制粘贴到word、ppt(纯前端生成图像只能使用base64编码，但office系列竟然不支持)
+            解决方案：1、图片上传服务器后显示(问题：速度慢);
+            2、使用Flash的API(问题：各大浏览器厂商已放弃Flash支持);
+            3、等待高手提供解决方法
+
+            功能设想：将此页面做成预报值班日志保存服务器共享，或自动生成会商ppt
+            </textarea
+                >
+            </div>
+        </div>
+    </body>
+    <script>
+        let addingItem = null;
+
+        function onSnap() {
+            document.title = "正在生成快照";
+            let li = document.createElement("li");
+            li.draggable = true;
+            li.innerHTML = '<h3 align="center">正在生成快照，请稍等...\r</h3>';
+            addingItem = li;
+            document.getElementById("img-list").appendChild(li);
+
+            return li;
+        }
+
+        function addImage(canvas) {
+            document.title = "天气图快照";
+            //关闭按钮
+            let closeBtn = document.createElement("div");
+            closeBtn.className = "close-btn";
+            closeBtn.onclick = (e) => {
+                document
+                    .getElementById("img-list")
+                    .removeChild(e.target.parentElement);
+            };
+            //列表canvas
+            addingItem.innerText = "TITLE";
+            addingItem.appendChild(closeBtn);
+            addingItem.appendChild(canvas);
+            //点击显示大图
+            let img = document.getElementById("image");
+            canvas.onclick = function (e) {
+                img.crossOrigin = "Anonymous";
+                img.src = canvas.toDataURL();
+                img.li = canvas.parentElement;
+            };
+            if (!img.src) {
+                canvas.onclick();
+            }
+        }
+
+        //=================拖动调整顺序=========================
+        let node = document.getElementById("img-list");
+        let draging = null;
+        //使用事件委托，将li的事件委托给ul
+        node.ondragstart = function (event) {
+            //console.log("start");
+            //firefox设置了setData后元素才能拖动！！！！
+            event.dataTransfer.setData("te", event.target.innerText); //不能使用text，firefox会打开新tab
+            //event.dataTransfer.setData("self", event.target);
+            draging = event.target;
+        };
+        node.ondragover = function (event) {
+            //console.log("onDrop over");
+            event.preventDefault();
+            let target = event.target.parentElement;
+            //因为dragover会发生在ul上，所以要判断是不是li
+            if (
+                target.nodeName === "LI" &&
+                target !== draging &&
+                !target.animated
+            ) {
+                let targetRect = target.getBoundingClientRect();
+                let dragingRect = draging.getBoundingClientRect();
+                if (_index(draging) < _index(target)) {
+                    target.parentNode.insertBefore(draging, target.nextSibling);
+                } else {
+                    target.parentNode.insertBefore(draging, target);
+                }
+                _animate(dragingRect, draging);
+                _animate(targetRect, target);
+            }
+        };
+        //获取元素在父元素中的index
+        function _index(el) {
+            if (!el || !el.parentNode) {
+                return -1;
+            }
+            let index = 0;
+            while (el && (el = el.previousElementSibling)) {
+                index++;
+            }
+            return index;
+        }
+
+        function _animate(prevRect, target) {
+            let ms = 300;
+            let currentRect = target.getBoundingClientRect();
+            if (prevRect.nodeType === 1) {
+                prevRect = prevRect.getBoundingClientRect();
+            }
+            _css(target, "transition", "none");
+            _css(
+                target,
+                "transform",
+                "translate3d(" +
+                    (prevRect.left - currentRect.left) +
+                    "px," +
+                    (prevRect.top - currentRect.top) +
+                    "px,0)"
+            );
+            target.offsetWidth; // 触发重绘
+            _css(target, "transition", "all " + ms + "ms");
+            _css(target, "transform", "translate3d(0,0,0)");
+            clearTimeout(target.animated);
+            target.animated = setTimeout(function () {
+                _css(target, "transition", "");
+                _css(target, "transform", "");
+                target.animated = false;
+            }, ms);
+        }
+        //给元素添加style
+        function _css(el, prop, val) {
+            let style = el && el.style;
+            if (style) {
+                if (val === void 0) {
+                    if (
+                        document.defaultView &&
+                        document.defaultView.getComputedStyle
+                    ) {
+                        val = document.defaultView.getComputedStyle(el, "");
+                    } else if (el.currentStyle) {
+                        val = el.currentStyle;
+                    }
+                    return prop === void 0 ? val : val[prop];
+                } else {
+                    if (!(prop in style)) {
+                        prop = "-webkit-" + prop;
+                    }
+
+                    style[prop] = val + (typeof val === "string" ? "" : "px");
+                }
+            }
+        }
+        //=================拖动调整顺序=========================
+    </script>
+</html>

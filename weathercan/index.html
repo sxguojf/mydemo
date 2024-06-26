@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>看天气 WeatherCan V1.0</title>
+        <link rel="shortcut icon" href="data/sun.ico" type="image/x-icon" />
+        <link rel="manifest" href="manifest.json" />
+
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="./lib/layui/css/layui.css"
+        />
+        <script type="text/javascript" src="./lib/layui/layui.js"></script>
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="./lib/leaflet/leaflet.css"
+        />
+    <link rel="shortcut icon" href="sun.ico"></head>
+
+    <body class="lm">
+        <div class="header">
+            <div class="logo">
+                WeatherCan V1.0
+                <i
+                    id="side-button"
+                    class="layui-icon layui-icon-shrink-right"
+                ></i>
+            </div>
+
+            <!-- <ul class="layui-nav logo">
+                <li class="layui-nav-item" lay-unselect>
+                    <i class="layui-icon layui-icon-light"></i
+                    ><span>WeatherCan V1.0</span>
+                </li>
+            </ul> -->
+            <!-- 主菜单-综合图 -->
+            <ul class="layui-layout-left">
+                <span id="cmb-menu"></span>
+            </ul>
+            <!-- 主菜单-右边部分 -->
+            <ul class="layui-nav layui-layout-right">
+                <li class="layui-nav-item" lay-unselect>
+                    <a id="login" href="#">登录</a>
+                </li>
+                <li class="layui-nav-item" lay-unselect>
+                    <a href="https://blog.csdn.net/hzgjf" target="_blank">
+                        帮助
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="mid">
+            <div class="left" id="side">
+                <div class="activitypanel">
+                    <div id="activitybar">
+                        <div id="cmb" title="综合图检索" for="cmb-panel">
+                            <i class="layui-icon layui-icon-template-1"></i>
+                        </div>
+                        <div title="绘图工具箱" for="draw-panel">
+                            <i class="layui-icon layui-icon-theme"></i>
+                        </div>
+                        <div title="地图工具箱" for="map-panel">
+                            <i class="layui-icon layui-icon-website"></i>
+                        </div>
+                        <div title="操作记录" for="log-panel">
+                            <i class="layui-icon layui-icon-form"></i>
+                        </div>
+                        <div title="模式数据检索" for="model-panel">
+                            <i class="layui-icon layui-icon-app"></i>
+                        </div>
+                        <div title="陕西数据检索" for="sx-panel">陕</div>
+                        <div title="更多数据" for="more-panel">
+                            <i class="layui-icon layui-icon-more"></i>
+                        </div>
+                    </div>
+
+                    <div class="title-panel">
+                        <div id="activityname" class="title"></div>
+                        <div id="panel">
+                            <div id="cmb-panel"></div>
+                            <div id="draw-panel"></div>
+                            <div id="map-panel"></div>
+                            <div id="log-panel"></div>
+                            <div id="model-panel"></div>
+                            <div
+                                id="sx-panel"
+                                style="text-align: center; margin-top: 10px"
+                            >
+                                暂未完成1
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="title">图层列表</div>
+                <div id="layer-list"></div>
+                <div id="list-toolbar"></div>
+            </div>
+            <div id="map"></div>
+        </div>
+        <div class="footer" id="status-bar"></div>
+    <script type="text/javascript" src="js/main-bundle.js"></script></body>
+</html>

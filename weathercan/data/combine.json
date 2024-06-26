@@ -1,0 +1,175 @@
+[{
+    "text": "综合图",
+    "state" : {"opened" : true },
+    "children": [{
+            "text": "地面",
+            "state": {"opened": true},
+            "children": [{
+                "text": "测试",
+                "a_attr": {
+                    "func": "L.Cmb.test();"
+                }
+            },
+            {
+                "text": "测试2",
+                "a_attr": {
+                    "func": "L.Cmb.test2();"
+                }
+            }, {
+                "text": "地面图",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfPlot();"
+                }
+            }, {
+                "text": "自动站",
+                "a_attr": {
+                    "func": "L.Cmb.loadAws();"
+                }
+            }, {
+                "text": "前1小时降水",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRE_1h');"
+                }
+            }, {
+                "text": "前3小时降水",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRE_3h');"
+                }
+            }, {
+                "text": "前6小时降水",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRE_6h');"
+                }
+            }, {
+                "text": "前12小时降水",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRE_12h');"
+                }
+            }, {
+                "text": "前24小时降水",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRE_24h');"
+                }
+            }, {
+                "text": "气温",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('TEM');"
+                }
+            }, {
+                "text": "气压",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('PRS');"
+                }
+            }, {
+                "text": "相对湿度",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('RHU');"
+                }
+            }, {
+                "text": "能见度",
+                "a_attr": {
+                    "func": "L.Cmb.loadSurfValue('VIS_HOR_10MI');"
+                }
+            }]
+        }, {
+            "text": "高空图",
+            "a_attr": {
+                "url": "/demo/book/abc"
+            },
+            "children": [{
+                    "text": "850hpa综合图",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHigh(850);"
+                    }
+                }, {
+                    "text": "700hpa综合图",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHigh(700);"
+                    }
+                },
+                {
+                    "text": "500pha综合图",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHigh(500);"
+                    }
+                }, {
+                    "text": "500pha填图",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHighPlot(500);"
+                    }
+                }, {
+                    "text": "500pha高度场",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHighContour(500);"
+                    }
+                },
+                {
+                    "text": "500hpa温度",
+                    "a_attr": {
+                        "func": "L.Cmb.loadHighValue(500,'TEM');"
+                    }
+                },
+                {
+                    "text": "测试1",
+                    "a_attr": {
+                        "func": "L.Cmb.test1();"
+                    }
+                }
+            ]
+        }, {
+            "text": "雷达",
+            "a_attr": {},
+            "children": [{
+                "text": "全国拼反射率图",
+                "a_attr": {
+                    "func": "L.Cmb.loadRadarCn();"
+                }
+            }, {
+                "text": "全省拼反射率图"
+            }, {
+                "text": "..."
+            }]
+        }, {
+            "text": "卫星",
+            "a_attr": {},
+            "children": [{
+                "text": "红外"
+            }, {
+                "text": "可见光"
+            }, {
+                "text": "水汽"
+            }]
+        }, {
+            "text": "数值模式",
+            "children": [{
+                "text": "欧洲"
+            }, {
+                "text": "日本"
+            }]
+        }, {
+            "text": "预报",
+            "a_attr": {},
+            "children": [{
+                "text": "网格预报"
+            }, {
+                "text": "城镇预报"
+            }]
+        }, {
+            "text": "站点信息",
+            "a_attr": {},
+            "children": [{
+                "text": "国家级地面站",
+                "a_attr": {
+                    "func": "L.Cmb.loadStation();"
+                }
+            }, {
+                "text": "区域站"
+            }, {
+                "text": "雷达站"
+            }, {
+                "text": "卫星直收站"
+            }]
+        }
+
+    ]
+}]

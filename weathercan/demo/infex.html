@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>WeatherCan Demo</title>
+        <script>
+            console.log("demo");
+            function demo(btn) {
+                console.log(btn);
+                var ifm = document.getElementById("demoframe");
+                ifm.src = "../" + btn + ".html";
+            }
+        </script>
+    </head>
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+        .nav {
+            height: 30px;
+        }
+        .nav > button {
+            height: 90%;
+        }
+        iframe {
+            width: 100%;
+            height: calc(100% - 30px);
+        }
+    </style>
+
+    <body>
+        <div class="nav">
+            <button onclick="demo('demo1')">demo1</button>
+            <button onclick="demo('demo2')">demo2</button>
+            <button onclick="demo('demo3')">demo3</button>
+            <button onclick="demo('demo4')">demo4</button>
+            <button onclick="demo('demo5')">demo5</button>
+            <button onclick="demo('demo6')">demo6</button>
+            <button onclick="demo('demo7')">demo7</button>
+            <button onclick="demo('demo8')">demo8</button>
+        </div>
+
+        <iframe
+            id="demoframe"
+            src="../demo1.html"
+            frameborder="0"
+            scrolling="no"
+            title="demo"
+        ></iframe>
+    </body>
+</html>

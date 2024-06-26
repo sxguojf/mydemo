@@ -1,0 +1,15 @@
+{
+    "name": "气象数据分析系统",
+    "short_name": "看天气",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "sun.ico",
+            "type": "image/ico",
+            "sizes": "180x180"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#4fc08d",
+    "theme_color": "#4fc08d"
+}

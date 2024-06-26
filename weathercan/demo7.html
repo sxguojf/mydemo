@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>数据源-mdfs</title>
+    </head>
+    <style lang="less">
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            font-size: 14px;
+        }
+        .center {
+            display: flex;
+            flex: 1;
+        }
+        #map {
+            flex: 1;
+        }
+        #left {
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            background-color: rgb(0, 30, 60);
+            display: flex;
+            flex-direction: column;
+        }
+        #left > .buttons {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        #left > .buttons > button {
+            cursor: pointer;
+            margin: 2px;
+            height: 30px;
+        }
+        #left > #layer-name {
+            height: 200px;
+            background-color: white;
+            margin: 5px;
+        }
+
+        #state {
+            height: 35px;
+            color: white;
+            background-color: rgb(0, 50, 100);
+        }
+    </style>
+    <body>
+        <div class="center">
+            <div id="left">
+                <div class="buttons">
+                    <button id="surf1">地面-手写</button>
+                    <button id="high1">高空-手写</button>
+                    <button id="surf2">地面-调插件</button>
+                    <button id="high2">高空-调插件</button>
+                    <button id="model">模式-调插件</button>
+                    <button id="rain">雨量-调插件</button>
+                    <button id="stationinfo">站点信息-http</button>
+                </div>
+                <div id="layer-name"></div>
+            </div>
+            <div id="map"></div>
+        </div>
+
+        <div id="state"></div>
+    <script type="text/javascript" src="js/demo7-bundle.js"></script></body>
+</html>

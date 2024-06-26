@@ -1,0 +1,6238 @@
+﻿{
+	"type": "FeatureCollection",
+	"properties": {
+		"name": "高空站点信息",
+		"fields": {
+			"3": "测站高度",
+			"name": "站名",
+			"lon": "经度",
+			"lat": "纬度"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-51.180000",
+				"lat": "-30.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-51.18000030517578,
+					-30
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4508.2",
+				"name": "那曲",
+				"lon": "92.070000",
+				"lat": "31.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					92.06999969482422,
+					31.479999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-99.750000",
+				"lat": "16.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.75,
+					16.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "76.0",
+				"lon": "23.830000",
+				"lat": "54.880001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.829999923706056,
+					54.880001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "662.0",
+				"lon": "77.000000",
+				"lat": "43.349998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77,
+					43.349998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "191.0",
+				"lon": "-68.000000",
+				"lat": "46.869999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-68,
+					46.869998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "257.3",
+				"name": "延吉",
+				"lon": "129.500000",
+				"lat": "42.869999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					129.5,
+					42.869998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "31.0",
+				"lon": "-159.330002",
+				"lat": "21.980000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-159.3300018310547,
+					21.979999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "153.2",
+				"name": "南宁",
+				"lon": "108.550003",
+				"lat": "22.780001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.55000305175781,
+					22.780000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "361.0",
+				"lon": "-93.379997",
+				"lat": "48.549999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.37999725341797,
+					48.54999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "-3.930000",
+				"lat": "5.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.930000066757202,
+					5.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "940.2",
+				"name": "额济纳旗",
+				"lon": "101.059998",
+				"lat": "41.959999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					101.05999755859375,
+					41.959999084472659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-80.550003",
+				"lat": "28.469999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.55000305175781,
+					28.469999313354493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "451.1",
+				"name": "克拉玛依",
+				"lon": "84.849998",
+				"lat": "45.619999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					84.8499984741211,
+					45.619998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "187.0",
+				"lon": "-76.000000",
+				"lat": "46.299999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76,
+					46.29999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "9.0",
+				"lon": "12.480000",
+				"lat": "37.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.479999542236329,
+					37.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "63.2",
+				"name": "安庆",
+				"lon": "116.970001",
+				"lat": "30.620001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.97000122070313,
+					30.6200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "91.0",
+				"lon": "26.070000",
+				"lat": "44.500000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.06999969482422,
+					44.5
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "505.0",
+				"lon": "-100.750000",
+				"lat": "46.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.75,
+					46.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "65.9",
+				"name": "锦州",
+				"lon": "121.120003",
+				"lat": "41.130001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.12000274658203,
+					41.130001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "694.0",
+				"lon": "-106.620003",
+				"lat": "48.200001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.62000274658203,
+					48.20000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1131.0",
+				"lon": "-111.379997",
+				"lat": "47.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.37999725341797,
+					47.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "75.0",
+				"lon": "144.779999",
+				"lat": "13.470000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.77999877929688,
+					13.470000267028809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "728.0",
+				"lon": "-117.620003",
+				"lat": "47.669998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.62000274658203,
+					47.66999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "96.0",
+				"lon": "20.950001",
+				"lat": "52.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.950000762939454,
+					52.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1289.6",
+				"name": "乌拉特中旗",
+				"lon": "108.510002",
+				"lat": "41.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.51000213623047,
+					41.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1654.7",
+				"name": "北塔山",
+				"lon": "90.529999",
+				"lat": "45.369999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					90.52999877929688,
+					45.369998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "43.3",
+				"name": "杭州",
+				"lon": "120.160004",
+				"lat": "30.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.16000366210938,
+					30.229999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "57.0",
+				"lon": "-124.550003",
+				"lat": "47.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.55000305175781,
+					47.93000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "108.0",
+				"lon": "123.669998",
+				"lat": "-10.170000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					123.66999816894531,
+					-10.170000076293946
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "79.0",
+				"lon": "15.330000",
+				"lat": "44.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.329999923706055,
+					44.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1772.0",
+				"name": "马鬃山",
+				"lon": "97.029999",
+				"lat": "41.799999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					97.02999877929688,
+					41.79999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "380.9",
+				"name": "临江",
+				"lon": "126.879997",
+				"lat": "41.799999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					126.87999725341797,
+					41.79999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "455.4",
+				"name": "恩施",
+				"lon": "109.470001",
+				"lat": "30.290001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.47000122070313,
+					30.290000915527345
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "5.170000",
+				"lat": "52.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.170000076293945,
+					52.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "258.0",
+				"name": "宜昌",
+				"lon": "111.370003",
+				"lat": "30.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.37000274658203,
+					30.729999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "112.0",
+				"lon": "-52.779999",
+				"lat": "47.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-52.779998779296878,
+					47.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "-81.720001",
+				"lat": "12.580000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.72000122070313,
+					12.579999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "774.0",
+				"name": "张家口",
+				"lon": "114.919998",
+				"lat": "40.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.91999816894531,
+					40.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "54.0",
+				"lon": "-66.250000",
+				"lat": "50.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.25,
+					50.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "24.0",
+				"lon": "-58.570000",
+				"lat": "48.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-58.56999969482422,
+					48.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "38.0",
+				"lon": "-60.369999",
+				"lat": "53.299999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-60.369998931884769,
+					53.29999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "119.0",
+				"lon": "16.870001",
+				"lat": "51.099998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.8700008392334,
+					51.099998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "306.0",
+				"lon": "-73.669998",
+				"lat": "53.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.66999816894531,
+					53.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "10.0",
+				"lon": "-155.050003",
+				"lat": "19.719999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-155.0500030517578,
+					19.719999313354493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "23.6",
+				"name": "武汉",
+				"lon": "114.050003",
+				"lat": "30.600000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.05000305175781,
+					30.600000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "23.0",
+				"lon": "127.370003",
+				"lat": "0.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					127.37000274658203,
+					0.7699999809265137
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "103.0",
+				"lon": "14.120000",
+				"lat": "52.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.119999885559082,
+					52.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "27.0",
+				"lon": "110.330002",
+				"lat": "1.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110.33000183105469,
+					1.4800000190734864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "-80.650002",
+				"lat": "51.270000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.6500015258789,
+					51.27000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "24.0",
+				"lon": "8.970000",
+				"lat": "39.330002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.970000267028809,
+					39.33000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "386.0",
+				"lon": "-90.199997",
+				"lat": "51.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.19999694824219,
+					51.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "149.0",
+				"lon": "6.970000",
+				"lat": "51.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.96999979019165,
+					51.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "542.1",
+				"name": "沙坪坝",
+				"lon": "106.400002",
+				"lat": "29.600000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.4000015258789,
+					29.600000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "504.0",
+				"name": "宜宾",
+				"lon": "104.610001",
+				"lat": "28.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.61000061035156,
+					28.770000457763673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "31.0",
+				"lon": "-45.419998",
+				"lat": "61.169998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-45.41999816894531,
+					61.16999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "9.0",
+				"lon": "81.150002",
+				"lat": "16.200001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					81.1500015258789,
+					16.200000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "113.029999",
+				"lat": "3.200000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.02999877929688,
+					3.200000047683716
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "274.0",
+				"lon": "-101.099998",
+				"lat": "53.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.0999984741211,
+					53.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1138.8",
+				"name": "敦煌",
+				"lon": "94.680000",
+				"lat": "40.139999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					94.68000030517578,
+					40.13999938964844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "314.0",
+				"lon": "98.970001",
+				"lat": "18.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.97000122070313,
+					18.770000457763673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "151.830002",
+				"lat": "7.450000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.8300018310547,
+					7.449999809265137
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "42.0",
+				"lon": "18.600000",
+				"lat": "-33.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.600000381469728,
+					-33.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "37.0",
+				"lon": "158.199997",
+				"lat": "6.950000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					158.1999969482422,
+					6.949999809265137
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "269.0",
+				"lon": "2.500000",
+				"lat": "27.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.5,
+					27.229999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "116.050003",
+				"lat": "5.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.05000305175781,
+					5.929999828338623
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1154.7",
+				"name": "呼和浩特",
+				"lon": "111.570000",
+				"lat": "40.860001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.56999969482422,
+					40.86000061035156
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "20.0",
+				"lon": "117.879997",
+				"lat": "4.270000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					117.87999725341797,
+					4.269999980926514
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "12.0",
+				"lon": "-18.670000",
+				"lat": "76.769997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-18.670000076293947,
+					76.7699966430664
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "25.0",
+				"lon": "-78.080002",
+				"lat": "58.470001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.08000183105469,
+					58.470001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "65.0",
+				"lon": "-68.419998",
+				"lat": "58.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-68.41999816894531,
+					58.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "-68.550003",
+				"lat": "63.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-68.55000305175781,
+					63.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "600.0",
+				"lon": "-122.779999",
+				"lat": "53.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.77999877929688,
+					53.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "167.729996",
+				"lat": "8.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					167.72999572753907,
+					8.729999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "664.0",
+				"name": "伊宁",
+				"lon": "81.330002",
+				"lat": "43.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					81.33000183105469,
+					43.95000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "28.0",
+				"lon": "-94.070000",
+				"lat": "58.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-94.06999969482422,
+					58.72999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "63.0",
+				"lon": "25.600000",
+				"lat": "-33.980000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.600000381469728,
+					-33.97999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "10.0",
+				"lon": "-85.930000",
+				"lat": "79.980003"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.93000030517578,
+					79.9800033569336
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "22.969999",
+				"lat": "40.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.969999313354493,
+					40.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "48.4",
+				"name": "南昌",
+				"lon": "115.900002",
+				"lat": "28.580000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.9000015258789,
+					28.579999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "32.5",
+				"name": "北京",
+				"lon": "116.470001",
+				"lat": "39.799999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.47000122070313,
+					39.79999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "439.0",
+				"lon": "-8.170000",
+				"lat": "27.700001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.170000076293946,
+					27.700000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2.0",
+				"lon": "171.380005",
+				"lat": "7.080000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					171.3800048828125,
+					7.079999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "71.0",
+				"lon": "-21.950001",
+				"lat": "70.480003"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.950000762939454,
+					70.4800033569336
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "35.0",
+				"lon": "34.820000",
+				"lat": "32.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.81999969482422,
+					32
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "25.0",
+				"lon": "-105.070000",
+				"lat": "69.129997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.06999969482422,
+					69.12999725341797
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "46.0",
+				"lon": "-94.970001",
+				"lat": "74.699997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-94.97000122070313,
+					74.69999694824219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "50.0",
+				"lon": "-96.000000",
+				"lat": "64.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96,
+					64.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "45.0",
+				"lon": "100.269997",
+				"lat": "16.780001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.2699966430664,
+					16.780000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1592.1",
+				"name": "西昌",
+				"lon": "102.269997",
+				"lat": "27.900000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.2699966430664,
+					27.899999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "599.0",
+				"lon": "128.300003",
+				"lat": "-25.030001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					128.3000030517578,
+					-25.030000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.5",
+				"name": "北海",
+				"lon": "109.180000",
+				"lat": "21.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.18000030517578,
+					21.450000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "193.0",
+				"lon": "102.779999",
+				"lat": "16.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.77999877929688,
+					16.450000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "204.0",
+				"lon": "-111.919998",
+				"lat": "60.020000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.91999816894531,
+					60.02000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "303.0",
+				"lon": "14.430000",
+				"lat": "50.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.430000305175782,
+					50
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "936.0",
+				"name": "乌鲁木齐",
+				"lon": "87.650002",
+				"lat": "43.779999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					87.6500015258789,
+					43.779998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "55.0",
+				"lon": "-37.630001",
+				"lat": "65.599998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-37.630001068115237,
+					65.5999984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "381.0",
+				"lon": "-122.599998",
+				"lat": "58.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.5999984741211,
+					58.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1042.2",
+				"name": "临河",
+				"lon": "107.370003",
+				"lat": "40.720001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.37000274658203,
+					40.720001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "83.6",
+				"name": "衢州",
+				"lon": "118.889999",
+				"lat": "28.990000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.88999938964844,
+					28.989999771118165
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "9.7",
+				"name": "乐亭",
+				"lon": "118.889999",
+				"lat": "39.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.88999938964844,
+					39.43000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "91.1",
+				"name": "阳江",
+				"lon": "111.980003",
+				"lat": "21.850000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.9800033569336,
+					21.850000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1292.0",
+				"name": "巴彦诺尔公",
+				"lon": "104.800003",
+				"lat": "40.160000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.80000305175781,
+					40.15999984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "126.0",
+				"lon": "30.950001",
+				"lat": "52.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.950000762939454,
+					52.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "29.0",
+				"lon": "134.479996",
+				"lat": "7.330000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					134.47999572753907,
+					7.329999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "103.0",
+				"lon": "-133.520004",
+				"lat": "68.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-133.52000427246095,
+					68.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "138.070007",
+				"lat": "9.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.07000732421876,
+					9.479999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "123.0",
+				"lon": "104.870003",
+				"lat": "15.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.87000274658203,
+					15.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "171.0",
+				"lon": "63.619999",
+				"lat": "53.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					63.619998931884769,
+					53.22999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "136.119995",
+				"lat": "-1.180000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.1199951171875,
+					-1.1799999475479127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "117.0",
+				"lon": "-1.250000",
+				"lat": "53.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.25,
+					53
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "111.0",
+				"lon": "34.270000",
+				"lat": "61.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.27000045776367,
+					61.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3650.1",
+				"name": "拉萨",
+				"lon": "91.129997",
+				"lat": "29.670000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					91.12999725341797,
+					29.670000076293947
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1463.4",
+				"name": "东胜",
+				"lon": "110.010002",
+				"lat": "39.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110.01000213623047,
+					39.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.8",
+				"name": "洪家",
+				"lon": "121.419998",
+				"lat": "28.620001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.41999816894531,
+					28.6200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "141.669998",
+				"lat": "45.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.6699981689453,
+					45.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "10.230000",
+				"lat": "36.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.229999542236329,
+					36.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "452.0",
+				"lon": "10.370000",
+				"lat": "50.549999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.369999885559082,
+					50.54999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "26.0",
+				"lon": "141.320007",
+				"lat": "43.049999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.32000732421876,
+					43.04999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1478.4",
+				"name": "酒泉",
+				"lon": "98.489998",
+				"lat": "39.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.48999786376953,
+					39.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "172.0",
+				"lon": "45.020000",
+				"lat": "53.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.02000045776367,
+					53.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "15.0",
+				"lon": "144.429993",
+				"lat": "42.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.42999267578126,
+					42.95000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "109.400002",
+				"lat": "-0.150000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.4000015258789,
+					-0.15000000596046449
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2.0",
+				"lon": "100.599998",
+				"lat": "13.650000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.5999984741211,
+					13.649999618530274
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "683.0",
+				"lon": "36.250000",
+				"lat": "32.369999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.25,
+					32.369998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2382.1",
+				"name": "丽江",
+				"lon": "100.220001",
+				"lat": "26.850000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.22000122070313,
+					26.850000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "120.0",
+				"name": "长沙",
+				"lon": "112.779999",
+				"lat": "28.120001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.77999877929688,
+					28.1200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "100.980003",
+				"lat": "12.680000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.9800033569336,
+					12.680000305175782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "650.9",
+				"name": "海拉尔",
+				"lon": "119.699997",
+				"lat": "49.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.69999694824219,
+					49.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "219.2",
+				"name": "邵武",
+				"lon": "117.470001",
+				"lat": "27.330000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					117.47000122070313,
+					27.329999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1112.8",
+				"name": "银川",
+				"lon": "106.209999",
+				"lat": "38.470001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.20999908447266,
+					38.470001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "64.7",
+				"name": "海口",
+				"lon": "110.250000",
+				"lat": "20.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110.25,
+					20
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4302.0",
+				"name": "定日",
+				"lon": "87.080002",
+				"lat": "28.629999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					87.08000183105469,
+					28.6299991607666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "39.0",
+				"lon": "25.170000",
+				"lat": "35.330002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.170000076293947,
+					35.33000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2238.6",
+				"name": "威宁",
+				"lon": "104.279999",
+				"lat": "26.860001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.27999877929688,
+					26.860000610351564
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "243.4",
+				"name": "嫩江",
+				"lon": "125.230003",
+				"lat": "49.160000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					125.2300033569336,
+					49.15999984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "95.0",
+				"lon": "-126.750000",
+				"lat": "65.279999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-126.75,
+					65.27999877929688
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "25.0",
+				"lon": "111.699997",
+				"lat": "-2.700000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.69999694824219,
+					-2.700000047683716
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "92.7",
+				"name": "大连",
+				"lon": "121.639999",
+				"lat": "38.910000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.63999938964844,
+					38.90999984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "-156.779999",
+				"lat": "71.279999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-156.77999877929688,
+					71.27999877929688
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "259.0",
+				"name": "怀化",
+				"lon": "110.000000",
+				"lat": "27.559999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110,
+					27.559999465942384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "84.0",
+				"lon": "-59.980000",
+				"lat": "-3.150000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-59.97999954223633,
+					-3.1500000953674318
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1697.0",
+				"name": "腾冲",
+				"lon": "98.500000",
+				"lat": "24.980000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.5,
+					24.979999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "99.150002",
+				"lat": "9.130000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					99.1500015258789,
+					9.130000114440918
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "-81.220001",
+				"lat": "68.769997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.22000122070313,
+					68.7699966430664
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "75.0",
+				"lon": "-62.330002",
+				"lat": "82.500000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-62.33000183105469,
+					82.5
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1108.3",
+				"name": "阿克苏",
+				"lon": "80.379997",
+				"lat": "41.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					80.37999725341797,
+					41.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1462.7",
+				"name": "张掖",
+				"lon": "100.279999",
+				"lat": "39.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.27999877929688,
+					39.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "20.0",
+				"lon": "114.750000",
+				"lat": "-3.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.75,
+					-3.430000066757202
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "98.300003",
+				"lat": "8.130000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.30000305175781,
+					8.130000114440918
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "100.599998",
+				"lat": "7.170000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.5999984741211,
+					7.170000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1083.1",
+				"name": "库车",
+				"lon": "82.970001",
+				"lat": "41.720001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					82.97000122070313,
+					41.720001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "12.0",
+				"lon": "128.080002",
+				"lat": "-3.700000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					128.0800018310547,
+					-3.700000047683716
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "39.570000",
+				"lat": "-69.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.56999969482422,
+					-69
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "-127.349998",
+				"lat": "50.669998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-127.3499984741211,
+					50.66999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "652.0",
+				"lon": "71.300003",
+				"lat": "42.849998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					71.30000305175781,
+					42.849998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "263.9",
+				"name": "章丘",
+				"lon": "117.519997",
+				"lat": "36.650002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					117.5199966430664,
+					36.650001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "901.0",
+				"name": "库尔勒",
+				"lon": "85.820000",
+				"lat": "41.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					85.81999969482422,
+					41.72999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1369.1",
+				"name": "民勤",
+				"lon": "103.089996",
+				"lat": "38.630001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.08999633789063,
+					38.630001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1889.1",
+				"name": "昆明",
+				"lon": "102.650002",
+				"lat": "25.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.6500015258789,
+					25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "766.0",
+				"lon": "-114.099998",
+				"lat": "53.529999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.0999984741211,
+					53.529998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1227.3",
+				"name": "贵阳",
+				"lon": "106.730003",
+				"lat": "26.590000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.7300033569336,
+					26.59000015258789
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "100.269997",
+				"lat": "5.300000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.2699966430664,
+					5.300000190734863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "172.919998",
+				"lat": "1.350000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.9199981689453,
+					1.350000023841858
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "140.080002",
+				"lat": "39.720001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.0800018310547,
+					39.720001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "112.8",
+				"name": "福州",
+				"lon": "119.230003",
+				"lat": "26.100000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.2300033569336,
+					26.100000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "12.0",
+				"lon": "-110.800003",
+				"lat": "27.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.80000305175781,
+					27.950000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "216.0",
+				"lon": "17.129999",
+				"lat": "49.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.1299991607666,
+					49.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "102.279999",
+				"lat": "6.170000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.27999877929688,
+					6.170000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "106.650002",
+				"lat": "-6.120000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.6500015258789,
+					-6.119999885559082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "136.880005",
+				"lat": "37.380001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8800048828125,
+					37.380001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "317.0",
+				"lon": "9.200000",
+				"lat": "48.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.199999809265137,
+					48.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "-162.600006",
+				"lat": "66.879997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-162.60000610351563,
+					66.87999725341797
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2.0",
+				"lon": "179.220001",
+				"lat": "-8.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					179.22000122070313,
+					-8.520000457763672
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "78.8",
+				"name": "荣成",
+				"lon": "122.370003",
+				"lat": "37.150002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					122.37000274658203,
+					37.150001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "155.0",
+				"lon": "36.130001",
+				"lat": "49.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.130001068115237,
+					49.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1386.8",
+				"name": "喀什",
+				"lon": "75.750000",
+				"lat": "39.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					75.75,
+					39.47999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "-81.750000",
+				"lat": "24.549999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.75,
+					24.549999237060548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "17.0",
+				"lon": "101.699997",
+				"lat": "2.720000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					101.69999694824219,
+					2.7200000286102297
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1276.0",
+				"lon": "47.480000",
+				"lat": "-18.799999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.47999954223633,
+					-18.799999237060548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "-80.370003",
+				"lat": "25.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.37000274658203,
+					25.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "777.5",
+				"name": "太原",
+				"lon": "112.580002",
+				"lat": "37.619999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.58000183105469,
+					37.619998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "10.0",
+				"lon": "-81.699997",
+				"lat": "30.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.69999694824219,
+					30.479999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "-80.019997",
+				"lat": "32.880001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.0199966430664,
+					32.880001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "16.0",
+				"lon": "103.220001",
+				"lat": "3.780000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.22000122070313,
+					3.7799999713897707
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "-82.400002",
+				"lat": "27.700001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4000015258789,
+					27.700000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "256.0",
+				"lon": "-84.570000",
+				"lat": "33.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.56999969482422,
+					33.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "50.0",
+				"lon": "108.269997",
+				"lat": "-6.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.2699966430664,
+					-6.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "52.0",
+				"lon": "-84.279999",
+				"lat": "30.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.27999877929688,
+					30.43000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "27.0",
+				"lon": "140.119995",
+				"lat": "36.049999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1199951171875,
+					36.04999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "24.0",
+				"lon": "177.449997",
+				"lat": "-17.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.4499969482422,
+					-17.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "109.019997",
+				"lat": "-7.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.0199966430664,
+					-7.730000019073486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "184.2",
+				"name": "邢台",
+				"lon": "114.360001",
+				"lat": "37.180000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.36000061035156,
+					37.18000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "175.0",
+				"lon": "-86.769997",
+				"lat": "33.169998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.7699966430664,
+					33.16999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "10.0",
+				"lon": "-89.820000",
+				"lat": "30.330000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.81999969482422,
+					30.329999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "91.0",
+				"lon": "-90.070000",
+				"lat": "32.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.06999969482422,
+					32.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "139.0",
+				"lon": "19.180000",
+				"lat": "47.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.18000030517578,
+					47.43000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "364.0",
+				"name": "三亚",
+				"lon": "109.580002",
+				"lat": "18.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.58000183105469,
+					18.229999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"lon": "-89.800003",
+				"lat": "28.100000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.80000305175781,
+					28.100000381469728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "-93.199997",
+				"lat": "30.120001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.19999694824219,
+					30.1200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "198.0",
+				"lon": "-97.279999",
+				"lat": "32.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.27999877929688,
+					32.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "-165.429993",
+				"lat": "64.500000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-165.42999267578126,
+					64.5
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "147.9",
+				"name": "齐齐哈尔",
+				"lon": "123.919998",
+				"lat": "47.380001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					123.91999816894531,
+					47.380001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "85.0",
+				"lon": "-93.830002",
+				"lat": "32.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.83000183105469,
+					32.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "15.3",
+				"lon": "-97.510002",
+				"lat": "27.780001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.51000213623047,
+					27.780000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "7.0",
+				"lon": "-97.419998",
+				"lat": "25.920000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.41999816894531,
+					25.920000076293947
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "-76.849998",
+				"lat": "18.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.8499984741211,
+					18.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "156.0",
+				"lon": "139.770004",
+				"lat": "33.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.77000427246095,
+					33.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "24.0",
+				"lon": "166.669998",
+				"lat": "-77.849998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					166.6699981689453,
+					-77.8499984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "889.4",
+				"name": "若羌",
+				"lon": "88.180000",
+				"lat": "39.020000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					88.18000030517578,
+					39.02000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "167.0",
+				"lon": "30.570000",
+				"lat": "50.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.56999969482422,
+					50.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "314.7",
+				"lon": "-100.919998",
+				"lat": "29.370001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.91999816894531,
+					29.3700008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "110.379997",
+				"lat": "-6.980000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110.37999725341797,
+					-6.980000019073486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "874.1",
+				"lon": "-102.190002",
+				"lat": "31.940001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.19000244140625,
+					31.940000534057618
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "77.2",
+				"name": "青岛",
+				"lon": "120.330002",
+				"lat": "36.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.33000183105469,
+					36.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "44.0",
+				"lon": "-161.830002",
+				"lat": "60.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-161.8300018310547,
+					60.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.9",
+				"name": "西沙",
+				"lon": "112.330002",
+				"lat": "16.830000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.33000183105469,
+					16.829999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2813.1",
+				"name": "格尔木",
+				"lon": "94.910004",
+				"lat": "36.419998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					94.91000366210938,
+					36.41999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "747.0",
+				"lon": "-110.949997",
+				"lat": "32.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.94999694824219,
+					32.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1181.1",
+				"name": "延安",
+				"lon": "109.449997",
+				"lat": "36.580002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.44999694824219,
+					36.58000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "103.0",
+				"lon": "-155.580002",
+				"lat": "62.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-155.5800018310547,
+					62.95000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "266.0",
+				"name": "伊春",
+				"lon": "128.839996",
+				"lat": "47.709999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					128.83999633789063,
+					47.709999084472659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "133.0",
+				"lon": "-117.120003",
+				"lat": "32.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.12000274658203,
+					32.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3198.5",
+				"name": "都兰",
+				"lon": "98.099998",
+				"lat": "36.299999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.0999984741211,
+					36.29999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "165.6",
+				"name": "桂林",
+				"lon": "110.300003",
+				"lat": "25.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					110.30000305175781,
+					25.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "448.0",
+				"lon": "-100.230003",
+				"lat": "25.870001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.2300033569336,
+					25.8700008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "24.0",
+				"lon": "131.300003",
+				"lat": "-7.980000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.3000030517578,
+					-7.980000019073486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "10.0",
+				"lon": "-76.870003",
+				"lat": "34.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.87000274658203,
+					34.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "323.0",
+				"lon": "23.950001",
+				"lat": "49.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.950000762939454,
+					49.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "111.0",
+				"lon": "-16.370001",
+				"lat": "28.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-16.3700008392334,
+					28.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "-170.720001",
+				"lat": "-14.330000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-170.72000122070313,
+					-14.329999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "370.9",
+				"name": "郴州",
+				"lon": "112.980003",
+				"lat": "25.740000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.9800033569336,
+					25.739999771118165
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "489.0",
+				"lon": "11.550000",
+				"lat": "48.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.550000190734864,
+					48.22999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "135.0",
+				"lon": "-147.869995",
+				"lat": "64.800003"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-147.8699951171875,
+					64.80000305175781
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "18.0",
+				"lon": "-110.320000",
+				"lat": "24.120001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.31999969482422,
+					24.1200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1376.5",
+				"name": "和田",
+				"lon": "79.930000",
+				"lat": "37.130001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					79.93000030517578,
+					37.130001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "277.0",
+				"lon": "-79.930000",
+				"lat": "36.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.93000030517578,
+					36.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "22.0",
+				"lon": "133.050003",
+				"lat": "35.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					133.0500030517578,
+					35.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "641.0",
+				"lon": "-80.400002",
+				"lat": "37.200001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.4000015258789,
+					37.20000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1410.7",
+				"name": "民丰",
+				"lon": "82.720001",
+				"lat": "37.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					82.72000122070313,
+					37.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "43.0",
+				"lon": "-149.979996",
+				"lat": "61.150002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-149.97999572753907,
+					61.150001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2411.0",
+				"name": "西宁",
+				"lon": "101.730003",
+				"lat": "36.660000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					101.7300033569336,
+					36.65999984741211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1417.4",
+				"name": "思茅",
+				"lon": "100.989998",
+				"lat": "22.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.98999786376953,
+					22.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "173.0",
+				"lon": "-86.550003",
+				"lat": "36.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.55000305175781,
+					36.22999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "138.7",
+				"name": "赣县",
+				"lon": "115.019997",
+				"lat": "25.870001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.0199966430664,
+					25.8700008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "261.4",
+				"name": "河池",
+				"lon": "108.040001",
+				"lat": "24.690001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.04000091552735,
+					24.690000534057618
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "501.6",
+				"name": "索伦",
+				"lon": "121.209999",
+				"lat": "46.599998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.20999908447266,
+					46.599998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "118.0",
+				"lon": "-70.250000",
+				"lat": "43.880001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.25,
+					43.880001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "173.0",
+				"lon": "-92.250000",
+				"lat": "34.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.25,
+					34.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1314.8",
+				"name": "蒙自",
+				"lon": "103.330002",
+				"lat": "23.440001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.33000183105469,
+					23.440000534057618
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1469.1",
+				"name": "崆峒",
+				"lon": "106.660004",
+				"lat": "35.529999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.66000366210938,
+					35.529998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "69.0",
+				"lon": "135.750000",
+				"lat": "33.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.75,
+					33.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "9.0",
+				"lon": "-170.220001",
+				"lat": "57.150002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-170.22000122070313,
+					57.150001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "112.779999",
+				"lat": "-7.370000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.77999877929688,
+					-7.369999885559082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1526.0",
+				"lon": "28.200001",
+				"lat": "-25.900000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.200000762939454,
+					-25.899999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1095.0",
+				"lon": "-101.699997",
+				"lat": "35.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-101.69999694824219,
+					35.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "42.3",
+				"name": "徐州",
+				"lon": "117.150002",
+				"lat": "34.279999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					117.1500015258789,
+					34.279998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-106.400002",
+				"lat": "23.219999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.4000015258789,
+					23.219999313354493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1619.0",
+				"lon": "-106.620003",
+				"lat": "35.040001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.62000274658203,
+					35.040000915527347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "32.0",
+				"lon": "-162.699997",
+				"lat": "55.200001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-162.6999969482422,
+					55.20000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1254.0",
+				"lon": "-106.699997",
+				"lat": "31.870001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.69999694824219,
+					31.8700008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "53.0",
+				"lon": "13.030000",
+				"lat": "45.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.029999732971192,
+					45.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2952.4",
+				"name": "茫崖",
+				"lon": "90.849998",
+				"lat": "38.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					90.8499984741211,
+					38.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "703.0",
+				"lon": "20.320000",
+				"lat": "49.029999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.31999969482422,
+					49.029998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "83.0",
+				"lon": "20.100000",
+				"lat": "46.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.100000381469728,
+					46.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "16.0",
+				"lon": "-156.649994",
+				"lat": "58.669998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-156.64999389648438,
+					58.66999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2181.0",
+				"lon": "-111.820000",
+				"lat": "35.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.81999969482422,
+					35.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "140.380005",
+				"lat": "-8.470000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.3800048828125,
+					-8.470000267028809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-65.980003",
+				"lat": "18.420000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-65.9800033569336,
+					18.420000076293947
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "15.0",
+				"lon": "130.369995",
+				"lat": "33.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.3699951171875,
+					33.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "175.0",
+				"lon": "8.670000",
+				"lat": "45.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.670000076293946,
+					45.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4543.3",
+				"name": "沱沱河",
+				"lon": "92.440002",
+				"lat": "34.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					92.44000244140625,
+					34.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "56.0",
+				"lon": "107.720001",
+				"lat": "20.129999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.72000122070313,
+					20.1299991607666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "121.0",
+				"lon": "-120.570000",
+				"lat": "34.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.56999969482422,
+					34.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "33.0",
+				"lon": "-152.479996",
+				"lat": "57.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-152.47999572753907,
+					57.72999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "98.0",
+				"lon": "-77.480003",
+				"lat": "38.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.4800033569336,
+					38.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "12.0",
+				"lon": "-75.480003",
+				"lat": "37.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.4800033569336,
+					37.93000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "31.0",
+				"lon": "130.529999",
+				"lat": "31.549999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.52999877929688,
+					31.549999237060548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "230.0",
+				"lon": "-90.570000",
+				"lat": "41.599998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.56999969482422,
+					41.599998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "13.0",
+				"lon": "-139.669998",
+				"lat": "59.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-139.6699981689453,
+					59.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3724.6",
+				"name": "玉树",
+				"lon": "96.959999",
+				"lat": "33.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					96.95999908447266,
+					33
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "87.0",
+				"lon": "-5.320000",
+				"lat": "50.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.320000171661377,
+					50.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "38.0",
+				"lon": "91.250000",
+				"lat": "23.879999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					91.25,
+					23.8799991607666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "96.830002",
+				"lat": "-12.180000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					96.83000183105469,
+					-12.180000305175782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "109.220001",
+				"lat": "13.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.22000122070313,
+					13.770000457763672
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "323.0",
+				"lon": "-83.820000",
+				"lat": "39.419998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.81999969482422,
+					39.41999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "659.7",
+				"name": "卢氏",
+				"lon": "111.070000",
+				"lat": "34.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.06999969482422,
+					34.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "109.220001",
+				"lat": "12.220000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.22000122070313,
+					12.220000267028809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3968.8",
+				"name": "达日",
+				"lon": "99.650002",
+				"lat": "33.759998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					99.6500015258789,
+					33.7599983215332
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2265.0",
+				"lon": "-1.040000",
+				"lat": "0.380000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.0399999618530274,
+					0.3799999952316284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "386.0",
+				"lon": "7.600000",
+				"lat": "44.529999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.599999904632568,
+					44.529998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "80.0",
+				"lon": "124.919998",
+				"lat": "1.530000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					124.91999816894531,
+					1.5299999713897706
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1876.1",
+				"name": "榆中",
+				"lon": "104.139999",
+				"lat": "35.869999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.13999938964844,
+					35.869998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "390.0",
+				"lon": "-93.400002",
+				"lat": "37.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.4000015258789,
+					37.22999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "112.0",
+				"name": "郑州",
+				"lon": "113.660004",
+				"lat": "34.709999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.66000366210938,
+					34.709999084472659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "57.0",
+				"lon": "-7.670000",
+				"lat": "33.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.670000076293945,
+					33.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "140.6",
+				"name": "厦门",
+				"lon": "118.070000",
+				"lat": "24.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.06999969482422,
+					24.479999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "35.0",
+				"lon": "-131.570007",
+				"lat": "55.029999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-131.57000732421876,
+					55.029998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "789.0",
+				"lon": "-99.970001",
+				"lat": "37.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.97000122070313,
+					37.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "106.669998",
+				"lat": "10.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.66999816894531,
+					10.819999694824219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "119.5",
+				"name": "哈尔滨",
+				"lon": "126.570000",
+				"lat": "45.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					126.56999969482422,
+					45.93000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "268.0",
+				"lon": "-95.620003",
+				"lat": "39.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.62000274658203,
+					39.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2910.6",
+				"name": "合作",
+				"lon": "102.900002",
+				"lat": "35.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.9000015258789,
+					35
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "12.0",
+				"lon": "11.620000",
+				"lat": "44.650002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.619999885559082,
+					44.650001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2.0",
+				"lon": "105.150002",
+				"lat": "9.180000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.1500015258789,
+					9.180000305175782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "53.0",
+				"lon": "-139.029999",
+				"lat": "-9.800000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-139.02999877929688,
+					-9.800000190734864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1612.0",
+				"lon": "-104.870003",
+				"lat": "39.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.87000274658203,
+					39.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "116.0",
+				"lon": "167.929993",
+				"lat": "-29.030001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					167.92999267578126,
+					-29.030000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "158.929993",
+				"lat": "-54.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					158.92999267578126,
+					-54.47999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1473.0",
+				"lon": "-108.519997",
+				"lat": "39.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-108.5199966430664,
+					39.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1080.3",
+				"name": "武都",
+				"lon": "104.919998",
+				"lat": "33.400002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.91999816894531,
+					33.400001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "25.0",
+				"lon": "98.870003",
+				"lat": "3.630000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					98.87000274658203,
+					3.630000114440918
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "-43.250000",
+				"lat": "-22.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-43.25,
+					-22.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "294.0",
+				"lon": "129.550003",
+				"lat": "28.379999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					129.5500030517578,
+					28.3799991607666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"name": "射阳",
+				"lon": "120.300003",
+				"lat": "33.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.30000305175781,
+					33.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "510.7",
+				"name": "汉中",
+				"lon": "107.029999",
+				"lat": "33.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.02999877929688,
+					33.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1515.0",
+				"lon": "-119.779999",
+				"lat": "39.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.77999877929688,
+					39.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "52.0",
+				"lon": "0.320000",
+				"lat": "50.880001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.3199999928474426,
+					50.880001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "411.0",
+				"name": "泾河",
+				"lon": "108.970001",
+				"lat": "34.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.97000122070313,
+					34.43000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "4.0",
+				"lon": "-122.220001",
+				"lat": "37.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.22000122070313,
+					37.72999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "89.0",
+				"lon": "-134.949997",
+				"lat": "-23.120001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-134.9499969482422,
+					-23.1200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "124.150002",
+				"lat": "24.330000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					124.1500015258789,
+					24.329999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "119.730003",
+				"lat": "-0.680000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.7300033569336,
+					-0.6800000071525574
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "9.0",
+				"lon": "-86.849998",
+				"lat": "21.020000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.8499984741211,
+					21.020000457763673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "43.0",
+				"lon": "9.550000",
+				"lat": "54.529999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.550000190734864,
+					54.529998779296878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "26.0",
+				"lon": "-72.849998",
+				"lat": "40.849998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.8499984741211,
+					40.849998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "88.449997",
+				"lat": "22.650000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					88.44999694824219,
+					22.649999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "180.0",
+				"lon": "-89.330002",
+				"lat": "40.150002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.33000183105469,
+					40.150001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1551.0",
+				"lon": "-103.379997",
+				"lat": "20.700001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-103.37999725341797,
+					20.700000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "89.0",
+				"lon": "-73.820000",
+				"lat": "42.680000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.81999969482422,
+					42.68000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "359.0",
+				"lon": "-80.220001",
+				"lat": "40.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.22000122070313,
+					40.52000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3316.2",
+				"name": "昌都",
+				"lon": "97.169998",
+				"lat": "31.150000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					97.16999816894531,
+					31.149999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "835.0",
+				"lon": "21.250000",
+				"lat": "-28.400000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.25,
+					-28.399999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "20.0",
+				"lon": "131.220001",
+				"lat": "25.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.22000122070313,
+					25.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "175.9",
+				"name": "百色",
+				"lon": "106.610001",
+				"lat": "23.900000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.61000061035156,
+					23.899999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "964.3",
+				"name": "二连浩特",
+				"lon": "111.940002",
+				"lat": "43.630001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.94000244140625,
+					43.630001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "18.0",
+				"lon": "-6.330000",
+				"lat": "54.500000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.329999923706055,
+					54.5
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "217.0",
+				"lon": "-78.720001",
+				"lat": "42.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.72000122070313,
+					42.93000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3384.6",
+				"name": "甘孜",
+				"lon": "100.000000",
+				"lat": "31.620001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100,
+					31.6200008392334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1004.2",
+				"name": "锡林浩特",
+				"lon": "116.120003",
+				"lat": "43.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.12000274658203,
+					43.95000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "5.0",
+				"lon": "17.530001",
+				"lat": "54.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.530000686645509,
+					54.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "181.8",
+				"name": "南阳",
+				"lon": "112.489998",
+				"lat": "33.099998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.48999786376953,
+					33.099998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "32.2",
+				"name": "阜阳",
+				"lon": "115.830002",
+				"lat": "32.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.83000183105469,
+					32.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "30.0",
+				"lon": "27.219999",
+				"lat": "31.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.219999313354493,
+					31.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "142.179993",
+				"lat": "27.080000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					142.17999267578126,
+					27.079999923706056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "11.0",
+				"lon": "-89.650002",
+				"lat": "20.950001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.6500015258789,
+					20.950000762939454
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3496.8",
+				"name": "红原",
+				"lon": "102.550003",
+				"lat": "32.790001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.55000305175781,
+					32.790000915527347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "103.0",
+				"lon": "30.620001",
+				"lat": "56.349998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.6200008392334,
+					56.349998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "-104.330002",
+				"lat": "19.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.33000183105469,
+					19.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "351.0",
+				"lon": "-96.370003",
+				"lat": "41.320000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.37000274658203,
+					41.31999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "180.0",
+				"lon": "-54.580002",
+				"lat": "-25.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-54.58000183105469,
+					-25.520000457763673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "848.0",
+				"lon": "-100.699997",
+				"lat": "41.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-100.69999694824219,
+					41.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "-22.0",
+				"lon": "51.919998",
+				"lat": "47.119999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					51.91999816894531,
+					47.119998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "21.0",
+				"lon": "12.450000",
+				"lat": "41.669998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.449999809265137,
+					41.66999816894531
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "185.8",
+				"name": "通辽",
+				"lon": "122.260002",
+				"lat": "43.599998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					122.26000213623047,
+					43.599998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "153.979996",
+				"lat": "24.280001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.97999572753907,
+					24.280000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "548.9",
+				"name": "温江",
+				"lon": "103.860001",
+				"lat": "30.750000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86000061035156,
+					30.75
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1289.0",
+				"lon": "-111.949997",
+				"lat": "40.770000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.94999694824219,
+					40.77000045776367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "36.4",
+				"name": "南京",
+				"lon": "118.900002",
+				"lat": "31.930000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.9000015258789,
+					31.93000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "15.0",
+				"lon": "7.150000",
+				"lat": "53.700001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.150000095367432,
+					53.70000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "908.0",
+				"lon": "-49.169998",
+				"lat": "-25.520000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-49.16999816894531,
+					-25.520000457763673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "116.0",
+				"name": "梧州",
+				"lon": "111.300003",
+				"lat": "23.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					111.30000305175781,
+					23.479999542236329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "736.5",
+				"name": "阿勒泰",
+				"lon": "88.070000",
+				"lat": "47.740002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					88.06999969482422,
+					47.7400016784668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2235.0",
+				"lon": "-99.129997",
+				"lat": "19.430000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-99.12999725341797,
+					19.43000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1595.0",
+				"lon": "-115.730003",
+				"lat": "40.849998"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.7300033569336,
+					40.849998474121097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "17.0",
+				"lon": "11.900000",
+				"lat": "-4.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.899999618530274,
+					-4.820000171661377
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "79.9",
+				"name": "清远",
+				"lon": "113.080002",
+				"lat": "23.709999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.08000183105469,
+					23.709999084472658
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "238.0",
+				"name": "长春",
+				"lon": "125.220001",
+				"lat": "43.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					125.22000122070313,
+					43.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "398.0",
+				"lon": "-122.870003",
+				"lat": "42.369999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.87000274658203,
+					42.369998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "19.0",
+				"lon": "-96.129997",
+				"lat": "19.150000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.12999725341797,
+					19.149999618530275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "291.7",
+				"name": "安康",
+				"lon": "109.029999",
+				"lat": "32.720001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.02999877929688,
+					32.720001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1134.0",
+				"lon": "44.500000",
+				"lat": "40.220001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.5,
+					40.220001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "71.9",
+				"name": "河源",
+				"lon": "114.730003",
+				"lat": "23.790001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.7300033569336,
+					23.790000915527345
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "14.0",
+				"lon": "119.550003",
+				"lat": "-5.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.55000305175781,
+					-5.070000171661377
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "127.0",
+				"lon": "16.030001",
+				"lat": "45.820000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.030000686645509,
+					45.81999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.0",
+				"lon": "100.269997",
+				"lat": "-0.780000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.2699966430664,
+					-0.7799999713897705
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "43.0",
+				"lon": "-66.099998",
+				"lat": "43.869999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.0999984741211,
+					43.869998931884769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "54.0",
+				"lon": "-22.580000",
+				"lat": "63.970001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-22.579999923706056,
+					63.970001220703128
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "3.3",
+				"name": "汕头",
+				"lon": "116.680000",
+				"lat": "23.379999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					116.68000030517578,
+					23.3799991607666
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2581.8",
+				"name": "巴塘",
+				"lon": "99.110001",
+				"lat": "30.000000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					99.11000061035156,
+					30
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "321.0",
+				"lon": "-83.470001",
+				"lat": "42.680000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.47000122070313,
+					42.68000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "448.0",
+				"lon": "-84.720001",
+				"lat": "44.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.72000122070313,
+					44.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "536.0",
+				"name": "塔城",
+				"lon": "83.000000",
+				"lat": "46.730000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					83,
+					46.72999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "82.0",
+				"lon": "-1.180000",
+				"lat": "60.130001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.1799999475479127,
+					60.130001068115237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "316.0",
+				"lon": "15.250000",
+				"lat": "-4.250000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.25,
+					-4.25
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "209.0",
+				"lon": "-88.099998",
+				"lat": "44.480000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-88.0999984741211,
+					44.47999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "287.0",
+				"lon": "-93.550003",
+				"lat": "44.830002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.55000305175781,
+					44.83000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.0",
+				"lon": "13.400000",
+				"lat": "54.080002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.399999618530274,
+					54.08000183105469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "669.8",
+				"name": "赤峰",
+				"lon": "118.830002",
+				"lat": "42.310001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.83000183105469,
+					42.310001373291019
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "66.4",
+				"lon": "114.169998",
+				"lat": "22.309999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.16999816894531,
+					22.309999465942384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "53.0",
+				"lon": "18.129999",
+				"lat": "40.230000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.1299991607666,
+					40.22999954223633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "399.0",
+				"lon": "-98.400002",
+				"lat": "45.450001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.4000015258789,
+					45.45000076293945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1030.0",
+				"lon": "-103.199997",
+				"lat": "44.070000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-103.19999694824219,
+					44.06999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "74.0",
+				"lon": "-57.029999",
+				"lat": "-29.780001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-57.029998779296878,
+					-29.780000686645509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1698.0",
+				"lon": "-108.470001",
+				"lat": "43.049999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-108.47000122070313,
+					43.04999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "29.0",
+				"lon": "3.220000",
+				"lat": "36.680000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.2200000286102297,
+					36.68000030517578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "873.0",
+				"lon": "-116.199997",
+				"lat": "43.570000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.19999694824219,
+					43.56999969482422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "738.4",
+				"name": "哈密",
+				"lon": "93.519997",
+				"lat": "42.799999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					93.5199966430664,
+					42.79999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "33.0",
+				"lon": "106.129997",
+				"lat": "-2.170000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.12999725341797,
+					-2.1700000762939455
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "345.8",
+				"name": "达县",
+				"lon": "107.510002",
+				"lat": "31.209999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.51000213623047,
+					31.209999084472658
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "1791.0",
+				"lon": "69.220001",
+				"lat": "34.549999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					69.22000122070313,
+					34.54999923706055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "62.0",
+				"lon": "-123.000000",
+				"lat": "44.900002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123,
+					44.900001525878909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2.0",
+				"lon": "118.699997",
+				"lat": "-8.550000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.69999694824219,
+					-8.550000190734864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "2991.8",
+				"name": "林芝",
+				"lon": "94.330002",
+				"lat": "29.670000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					94.33000183105469,
+					29.670000076293947
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "6.7",
+				"name": "宝山",
+				"lon": "121.440002",
+				"lat": "31.389999"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.44000244140625,
+					31.389999389648439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "8.0",
+				"lon": "34.650002",
+				"lat": "64.949997"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.650001525878909,
+					64.94999694824219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"3": "16.0",
+				"lon": "102.330002",
+				"lat": "-3.880000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					102.33000183105469,
+					-3.880000114440918
+				]
+			}
+		}
+	]
+}
