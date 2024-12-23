@@ -31,3 +31,7 @@ https://sxguojf.github.io/mydemo/metvr/index.html
 ## 7. 气象数据可视化-OpenLayer 版
 
 https://sxguojf.github.io/mydemo/olmet/index.html
+
+## 8. three-tile vue 版
+
+https://sxguojf.github.io/mydemo/three-tile-vue/index.html
